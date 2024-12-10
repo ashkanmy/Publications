@@ -12,6 +12,7 @@
 [6] Michael Breuß, Ali Sharifi Boroujerdi, and Ashkan Mansouri Yarahmadi. Modelling the Energy Consumption of Driving Styles Based on Clustering of GPS Information. Modelling, 3(3):385–399, 2022.
 
 [7] Ashkan Mansouri Yarahmadi, Michael Breuß, and Carsten Hartmann. Long Short-Term Memory Neural Network for Temperature Prediction in Laser Powder Bed Additive Manufacturing. In Kohei Arai, editor, Intelligent Systems and Applications, pages 119–132, Cham, 2022. Springer International Publishing.
+
 [8] Ashkan Mansouri Yarahmadi and Michael Breuß. Automatic Watermeter Reading in Presence of Highly Deformed Digits. In Computer Analysis of Images and Patterns, pages 153–163, Cham, 2021. Springer International Publishing.
 
 [9] Michael Breuß, Johannes Buhl, Ashkan Mansouri Yarahmadi, Markus Bambach, and Pascal Peter. A Simple Approach to Stiffness Enhancement of a Printable Shape by Hamilton-Jacobi Skeletonization. Procedia Manufacturing, 47:1190–1196, 01 2020.
