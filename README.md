@@ -26,3 +26,6 @@
 [13] Michael Breuß, Laurent Hoeltgen, Ali Sharifi Boroujerdi, and Ashkan Mansouri Yarahmadi. Highly Robust Clustering of GPS Driver Data for Energy Efficient Driving Style Modelling. CoRR, abs/1610.02815, 2016.
 
 [14] Ashkan Mansouri Yarahmadi, D.S. Guru, and P. Punitha. Skew Estimation in Persian Documents: A Novel Approach. In International Conference on Computer Graphics, Imaging and Visualisation (CGIV’06), pages 64–70, 2006
+
+![Visitor Count](https://komarev.com/ghpvc/?username=ashkanmy&color=blue)
+
