@@ -1,5 +1,6 @@
 ## Publications
 
+
 [1] Mohsen Khan Mohammadi, Toni Schneidereit, Ashkan Mansouri Yarahmadi, and Michael Breuß. Investigating Training Datasets of Real and Synthetic Images for Outdoor Swimmer Localisation with YOLO. AI, 5(2):576–593, 2024.
 
 [2] Ashkan Mansouri Yarahmadi, Michael Breuß, and Mohsen Khan Mohammadi. Explaining StyleGAN Synthesized Swimmer Images in Low-Dimensional Space. In Nicolas Tsapatsoulis, Andreas Lanitis, Marios Pattichis, Con- stantinos S. Pattichis, Christos Kyrkou, Efthyvoulos C. Kyriacou, Zenonas Theodosiou, and Andreas Panayides, editors, Computer Analysis of Images and Patterns - 20th International Conference, CAIP 2023, Limassol, Cyprus, September 25-28, 2023, Proceedings, Part I, volume 14184 of Lecture Notes in Computer Science, pages 164–173. Springer, 2023.
